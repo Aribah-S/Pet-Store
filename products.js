@@ -1,0 +1,47 @@
+let products = [
+    {
+        "id": 1001,
+        "title": "Cat Food, 25lb bag",
+        "description": "A 25 pound bag of <em>irresistible</em>, organic goodness for your cat.",
+        "price": 20.00,
+        "image": "images/product-fullsize.png",
+        "availableInventory": 10,
+        "rating": 2
+    },
+    {
+        "id": 1002,
+        "title": "Yarn",
+        "description": "Yarn your cat can play with for a very <strong>long<strong> time.",
+        "price": 2.99,
+        "image": "images/yarn.jpg",
+        "availableInventory": 7,
+        "rating": 3,
+    },
+    {
+        "id": 1003,
+        "title": "Cat Bed",
+        "description": "Provide your feline with the <em>comfiest</em> naps they'll ever have.",
+        "price": 5.99,
+        "image": "images/catbed.jpg",
+        "availableInventory": 4,
+        "rating": 5,
+    },
+    {
+        "id": 1004,
+        "title": "Litter Box",
+        "description": "Keep your house clean with this helpful litter box.",
+        "price": 4.99,
+        "image": "images/litterbox.jpg",
+        "availableInventory": 5,
+        "rating": 3,
+    },
+    {
+        "id": 1005,
+        "title": "Laser Pointer",
+        "description": "Make more memories with your cat by letting them go crazy using the laser point.",
+        "price": 5.99,
+        "image": "images/laserpointer.jpg",
+        "availableInventory": 8,
+        "rating": 3,
+    },
+]
